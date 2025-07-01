@@ -29,5 +29,5 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) application that 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/saipranay305/Gamified-Habit-Tracker.git
+git clone https://github.com/minnu789/Gamified-Habit-Tracker.git
 cd Gamified-Habit-Tracker
